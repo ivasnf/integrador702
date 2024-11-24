@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ivasnf/integrador702.git/static/css/main.f855e6bc.css",
-    "main.js": "/ivasnf/integrador702.git/static/js/main.8233c5e6.js",
-    "static/js/453.f7a79b9b.chunk.js": "/ivasnf/integrador702.git/static/js/453.f7a79b9b.chunk.js",
-    "static/media/logo.svg": "/ivasnf/integrador702.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ivasnf/integrador702.git/index.html",
-    "main.f855e6bc.css.map": "/ivasnf/integrador702.git/static/css/main.f855e6bc.css.map",
-    "main.8233c5e6.js.map": "/ivasnf/integrador702.git/static/js/main.8233c5e6.js.map",
-    "453.f7a79b9b.chunk.js.map": "/ivasnf/integrador702.git/static/js/453.f7a79b9b.chunk.js.map"
+    "main.css": "/integrador702/static/css/main.f855e6bc.css",
+    "main.js": "/integrador702/static/js/main.0f02fe4d.js",
+    "static/js/453.f7a79b9b.chunk.js": "/integrador702/static/js/453.f7a79b9b.chunk.js",
+    "static/media/logo.svg": "/integrador702/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/integrador702/index.html",
+    "main.f855e6bc.css.map": "/integrador702/static/css/main.f855e6bc.css.map",
+    "main.0f02fe4d.js.map": "/integrador702/static/js/main.0f02fe4d.js.map",
+    "453.f7a79b9b.chunk.js.map": "/integrador702/static/js/453.f7a79b9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8233c5e6.js"
+    "static/js/main.0f02fe4d.js"
   ]
 }
